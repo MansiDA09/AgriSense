@@ -1,2 +1,2 @@
 city,state,crop,status,temperature_c,soil_moisture,reason
-Bhiwani,Haryana,Bajra,Suitable,29.2,0.166,Current temperature and soil moisture match the predefined prototype range.
+Bhiwani,Haryana,Bajra,Suitable,26.3,0.169,Current temperature and soil moisture match the predefined prototype range.
