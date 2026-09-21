@@ -2,7 +2,7 @@ name: Update AgriSense
 
 on:
   schedule:
-    - cron: "30 3 * * *"
+    - cron: "17 * * * *"
 
   workflow_dispatch:
 
@@ -16,12 +16,12 @@ jobs:
     steps:
 
       - name: Checkout repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.13"
+          python-version: "3.11"
 
       - name: Install Python packages
         run: |
