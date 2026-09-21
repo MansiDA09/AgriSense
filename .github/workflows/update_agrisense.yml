@@ -1,6 +1,13 @@
 name: Update AgriSense
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "agrisense_live.py"
+      - ".github/workflows/update_agrisense.yml"
+
   schedule:
     - cron: "23 * * * *"
 
