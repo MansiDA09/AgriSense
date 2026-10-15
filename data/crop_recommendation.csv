@@ -1,2 +1,3 @@
 city,state,crop,status,temperature_c,soil_moisture,reason
-Bhiwani,Haryana,No matching crop,No recommendation,30.5,0.057,Current conditions did not match the predefined prototype ranges.
+Bhiwani,Haryana,Rice,Suitable,28.2,0.247,Current temperature and soil moisture match the predefined prototype range.
+Bhiwani,Haryana,Bajra,Suitable,28.2,0.247,Current temperature and soil moisture match the predefined prototype range.
