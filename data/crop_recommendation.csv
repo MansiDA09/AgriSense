@@ -1,2 +1,2 @@
 city,state,crop,status,temperature_c,soil_moisture,reason
-Bhiwani,Haryana,No matching crop,No recommendation,27.8,0.074,Current conditions did not match the predefined prototype ranges.
+Bhiwani,Haryana,No matching crop,No recommendation,23.6,0.09,Current conditions did not match the predefined prototype ranges.
