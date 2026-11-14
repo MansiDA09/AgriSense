@@ -1,3 +1,2 @@
 city,state,crop,status,temperature_c,soil_moisture,reason
-Bhiwani,Haryana,Rice,Suitable,23.3,0.234,Current temperature and soil moisture match the predefined prototype range.
-Bhiwani,Haryana,Wheat,Suitable,23.3,0.234,Current temperature and soil moisture match the predefined prototype range.
+Bhiwani,Haryana,Wheat,Suitable,19.4,0.223,Current temperature and soil moisture match the predefined prototype range.
